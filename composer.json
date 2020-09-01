@@ -22,7 +22,7 @@
         "kartik-v/yii2-widget-activeform": "*",
         "kartik-v/yii2-widget-affix": "*",
         "kartik-v/yii2-widget-alert": "*",
-        "kartik-v/yii2-widget-colorinput": "*",
+        "lotltd/yii2-widget-colorinput": "*",
         "kartik-v/yii2-widget-datepicker": "*",
         "kartik-v/yii2-widget-datetimepicker": "*",
         "kartik-v/yii2-widget-depdrop": "*",
